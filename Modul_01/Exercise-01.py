@@ -1,0 +1,8 @@
+print("==========================================")
+print("Alif Kus Setyanto")
+print("I0322011")
+print()
+print("Perkenalkan nama saya Alif Kus Setyanto, saya berasal dari kota reyog yaitu Kabupaten Ponorogo,Jawa Timur. Ponorogo sendiri letaknya tidak terlalu jauh dari Kota Solo sehingga secara budaya, bahasa, maupun keadaan suhu dan cuaca bisa dikatakan hampir sama dengan kota Solo. Mungkin hampir semua orang mengetahui bahwa Ponorogo sangat terkenal dengan Reyog nya. Dari Pemerintah sendiri juga sangat mewadahi dalam melestarikan dan berkembangnya reyog, salah satu diantaranya yaitu adanya Festival Reyog Mini dan Festival Reyog Ponorogo Nasional yang diselenggarakan pada rangkaian Grebeg Suro di sekitaran bulan mendekati hari jadi Ponorogo. Selain Reyog, Ponorogo juga memiliki salah satu tempat wisata yang banyak dikunjungi yaitu Telaga Ngebel. Dan juga terdapat makanan khas Ponorogo yaitu Sate Ayam POnorogo dan Dawet Jabung.")
+print()
+print("Dengan merantaunya saya di Kota Solo dan keterima di Teknik Industri Universitas Sebelas Maret saya berharap dapat menjalani masa perkuliahan dengan kemudian bisa lulus dengan tepat waktu. Dan setelah lulus saya berharap bisa mendapat pekerjaan yang sesuai ekspektasi saya ketika masuk di Teknik Industri Universitas Sebelas Maret.")
+print("==========================================")
